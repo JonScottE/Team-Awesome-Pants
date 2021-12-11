@@ -33,3 +33,54 @@ Further analyze the correlation between ADA (crypto) and JPM (bank).
 
 
 # Rough Breakdown of Tasks
+12/11 - Working Session(3 hours)
+
+Deliverables:  
+Outline of Project
+Identification of Data Sources and Timeframe
+	Binance (API Feed)
+	Yahoo Finance yfiancnes
+	Google Trends
+	Coinmarketcaps
+
+Assign tasks for next working session
+
+
+12/14 - Working Session (3 hours) -
+
+Deliverables:
+Code for API Feeds
+Define Functions for Analysis
+Conduct Data Cleanup
+Code Functions for Analysis of our Questions
+Validate API feeds and Functions
+Discuss Output
+Assign Tasks for next working session
+
+12/16 - Working Session (3 hours)
+
+Deliverables:
+Run Visualizations - discuss in relation to project question
+Select visualizations and align on commentary for final presentation.
+Save selected visualizations to .PNG files.
+
+Assign tasks for next working session
+
+
+12/18 - Working Session (4 hours)
+
+Deliverables:
+Run Visualizations - discuss in relation to project question
+Select visualizations and align on commentary for final presentation.
+Save selected visualizations to .PNG files.
+Assign Tasks for next working session
+
+
+12/21 - Working Session (3 hours)
+All coding work should be complete (including visualizations produced)
+Assemble/Rehearse PPT presentation
+Update READ.ME to final version including commentary and .PNG files of visualizations
+Assign Tasks for next working session, if any
+
+
+12/3 - Presentation (10 Minutes)
