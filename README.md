@@ -31,6 +31,5 @@ Further analyze the correlation between ADA (crypto) and JPM (bank).
  <a href="https://www.tradingview.com/">TradingView </a></br>
 
 
-# Necessary Tools
 
 # Rough Breakdown of Tasks
