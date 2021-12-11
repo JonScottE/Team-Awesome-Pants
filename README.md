@@ -1,14 +1,26 @@
-## Team-Awesome-Pants
-Best Panted team in history
-</br>
-#Team Members include:
+## Team-Awesome-Pants  
+<img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
+     width="220" 
+     height="260"
+     align="left"/> 
+<img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
+     width="220" 
+     height="260"
+     align="right"/>  
+<img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
+     width="220" 
+     height="260"
+     align="right"/> 
+
+
+<b>Team Members include:</b>
 </br></br>
 Tara McDaniel </br> Michelle Fesi </br> Andrei E. Stonescu </br> Lareeb Ali </br> Jon Ernest </br>
 </br></br></br>
 # Description
 
-By using historical crypto, stock, and gold data, we will compare:</br></br>
-Stocks to gold </br>Altcoins to Bitcoin </br>Gold to Bitcoin </br>Altcoins to Stocks
+By using historical crypto, stock, and gold data, we will compare:</br>
+</br>- Stocks to gold </br>- Altcoins to Bitcoin </br>- Gold to Bitcoin </br>- Altcoins to Stocks
 </br></br>
 Our goal is to show a correlation of the money flows from the digital market to or from traditional markets. 
 
@@ -35,49 +47,49 @@ Further analyze the correlation between ADA (crypto) and JPM (bank).
 12/11 - Working Session(3 hours)
 
 Deliverables:  </br></br>
-Outline of Project</br>
-Identification of Data Sources and Timeframe</br>
-	Binance (API Feed)</br>
-	Yahoo Finance yfiancnes</br>
-	Google Trends</br>
-	Coinmarketcaps</br>
-Assign tasks for next working session</br></br>
+- Outline of Project</br>
+- Identification of Data Sources and Timeframe</br>
+	- Binance (API Feed)</br>
+	- Yahoo Finance yfiancnes</br>
+	- Google Trends</br>
+	- Coinmarketcaps</br>
+- Assign tasks for next working session</br></br>
 
 
 12/14 - Working Session (3 hours) -
 
 Deliverables:</br></br>
-Code for API Feeds</br>
-Define Functions for Analysis</br>
-Conduct Data Cleanup</br>
-Code Functions for Analysis of our Questions</br>
-Validate API feeds and Functions</br>
-Discuss Output</br>
-Assign Tasks for next working session</br></br>
+- Code for API Feeds</br>
+- Define Functions for Analysis</br>
+- Conduct Data Cleanup</br>
+- Code Functions for Analysis of our Questions</br>
+- Validate API feeds and Functions</br>
+- Discuss Output</br>
+- Assign Tasks for next working session</br></br>
 
 12/16 - Working Session (3 hours)
 
 Deliverables:</br></br>
-Run Visualizations - discuss in relation to project question</br>
-Select visualizations and align on commentary for final presentation.</br>
-Save selected visualizations to .PNG files.</br>
-Assign tasks for next working session</br></br>
+- Run Visualizations - discuss in relation to project question</br>
+- Select visualizations and align on commentary for final presentation.</br>
+- Save selected visualizations to .PNG files.</br>
+- Assign tasks for next working session</br></br>
 
 
 12/18 - Working Session (4 hours)</br></br>
 
 Deliverables:</br></br>
-Run Visualizations - discuss in relation to project question</br>
-Select visualizations and align on commentary for final presentation.</br>
-Save selected visualizations to .PNG files.</br>
-Assign Tasks for next working session</br>
+- Run Visualizations - discuss in relation to project question</br>
+- Select visualizations and align on commentary for final presentation.</br>
+- Save selected visualizations to .PNG files.</br>
+- Assign Tasks for next working session</br>
 
 
 12/21 - Working Session (3 hours)</br></br>
 All coding work should be complete (including visualizations produced)</br>
-Assemble/Rehearse PPT presentation</br>
-Update READ.ME to final version including commentary and .PNG files of visualizations</br>
-Assign Tasks for next working session, if any</br>
+- Assemble/Rehearse PPT presentation</br>
+- Update READ.ME to final version including commentary and .PNG files of visualizations</br>
+- Assign Tasks for next working session, if any</br>
 </br></br>
 
 12/3 - Presentation (10 Minutes)
