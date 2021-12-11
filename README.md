@@ -4,7 +4,7 @@
      height="260"
      align="left"/> 
 
-<img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
+<img src="https://cdn-images.farfetch-contents.com/13/93/80/33/13938033_17819971_1000.jpg" 
      width="220" 
      height="260"
      align="right"/> 
