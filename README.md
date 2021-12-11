@@ -3,14 +3,15 @@
      width="220" 
      height="260"
      align="left"/> 
-<img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
-     width="220" 
-     height="260"
-     align="right"/>  
+
 <img src="https://m.media-amazon.com/images/I/81BJWS7Cz4L._AC_SL1500_.jpg" 
      width="220" 
      height="260"
      align="right"/> 
+<img src="https://cdn-images.farfetch-contents.com/13/63/00/50/13630050_16366640_1000.jpg" 
+     width="220" 
+     height="260"
+     align="right"/>  
 
 
 <b>Team Members include:</b>
