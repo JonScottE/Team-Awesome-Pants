@@ -37,9 +37,9 @@ Subquestion: is there a strong enough correlation between the top 100 cryptos by
 
 # Data to be used
  <a href="https://trends.google.com/trends/?geo=US">Google Trends </a></br>
- <a href="https://finance.yahoo.com/">Yahoo Finance </a></br>
+ <a href="https://finance.yahoo.com/">Yahoo Finance </a>  Gold & SPY </br>
  <a href="https://binance-docs.github.io/apidocs/spot/en/#change-log">binance API instructions</a></br>
- <a href="https://coinmarketcap.com/api/">CoinMarketCap </a></br>
+ <a href="https://api.tiingo.com/">Tiingo BTC + ETH </a></br>
  <a href="https://www.tradingview.com/">TradingView </a></br>
 
 
