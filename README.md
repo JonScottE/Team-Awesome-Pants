@@ -13,6 +13,7 @@ Tara McDaniel </br> Michelle Fesi </br> Andrei E. Stonescu </br> Lareeb Ali </br
 </br></br></br>
 </br></br>
 
+# requirements for read me, to be deleted before hand in:
 Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question you asked of your data and under each heading a short description of what you found and any relevant plots.
 # Method and goal
 
@@ -44,12 +45,35 @@ Yes, absolutely. We were able to show a strong correlation between BTC and ETH(r
 ![AssetCorrAll](https://user-images.githubusercontent.com/91569353/147132988-2d643c06-ee5d-4f32-a237-6fb7a959b425.png)
 
 
+
 # Do traditional assets track with one another?
-Inconclusive... 
+Inconclusive... once we normalized the prices, the line chart showed some promise for correlation,</br>
+however once we actually visualized the correlation between the two, there didn't appear to be a positive correlation of </br>
+any statistical significance.</br></br>
+![SpyGldLine2](https://user-images.githubusercontent.com/91569353/147141384-1bc1cd37-f026-4b0c-a891-75c9bbfd8fdf.PNG)</br></br>
+![SPYGLDCorrBox](https://user-images.githubusercontent.com/91569353/147137627-73fc874d-8553-4524-bec5-eb82ba55ec40.png)</br></br>
+
+Challenges here include:
+1) Limited datasets - we really need more than the two traditional assets of Gold and S&P500.
+2) Two very opposite datasets in the eyes of investors - as stocks are typically "risk on",</br>
+   and gold is typically risk off. Actually because of this we were able to show a slight negative</br>
+   correlation between the two asset classes.</br></br>
+![SPYGLDNegCorr](https://user-images.githubusercontent.com/91569353/147139153-a2e9a563-ba6f-42b7-b54b-2117ff8d9727.png)</br>
+One would not expect this to be consistent over multiple traditional datasets.
+        
+
 
 # Can we find data showing capital inflows/outflows between traditional and digital assets?
+Inconclusive. Our strongest finding is the clear inverse relationship between BTC and GLD. </br>
+Strongly implying money flows between the two asset classes, but not solidifying it factually. </br></br>
+ ![BTC_GLD_Line](https://user-images.githubusercontent.com/91569353/147140508-19c8786c-0135-42f1-9bfc-d9c2ef69d141.PNG)</br></br>
  
+ Challenges include:</br>
+ 1) Lack of transactional volume.
+ 2) A multitude of other assets options for investors and traders.
 
 
 
-=
+
+
+
