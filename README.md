@@ -13,8 +13,7 @@ Tara McDaniel </br> Michelle Fesi </br> Andrei E. Stonescu </br> Lareeb Ali </br
 </br></br></br>
 </br></br>
 
-# requirements for read me, to be deleted before hand in:
-Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question you asked of your data and under each heading a short description of what you found and any relevant plots.
+
 # Method and goal
 
 By using historical crypto, stock, and gold data, we will compare:</br>
