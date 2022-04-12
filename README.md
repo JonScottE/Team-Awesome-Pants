@@ -68,7 +68,7 @@ Strongly implying money flows between the two asset classes, but not solidifying
  ![BTC_GLD_Line](https://user-images.githubusercontent.com/91569353/147140508-19c8786c-0135-42f1-9bfc-d9c2ef69d141.PNG)</br></br>
  
  Challenges include:</br>
- 1) Lack of transactional volume.
+ 1) Lack of  transactional volume.
  2) A multitude of other assets options for investors and traders.
 
 
